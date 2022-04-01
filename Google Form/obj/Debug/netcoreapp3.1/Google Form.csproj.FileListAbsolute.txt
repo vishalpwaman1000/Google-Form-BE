@@ -1,0 +1,27 @@
+C:\Users\visha\source\repos\Google Form\Google Form\bin\Debug\netcoreapp3.1\appsettings.Development.json
+C:\Users\visha\source\repos\Google Form\Google Form\bin\Debug\netcoreapp3.1\appsettings.json
+C:\Users\visha\source\repos\Google Form\Google Form\bin\Debug\netcoreapp3.1\Google Form.exe
+C:\Users\visha\source\repos\Google Form\Google Form\bin\Debug\netcoreapp3.1\Google Form.deps.json
+C:\Users\visha\source\repos\Google Form\Google Form\bin\Debug\netcoreapp3.1\Google Form.runtimeconfig.json
+C:\Users\visha\source\repos\Google Form\Google Form\bin\Debug\netcoreapp3.1\Google Form.runtimeconfig.dev.json
+C:\Users\visha\source\repos\Google Form\Google Form\bin\Debug\netcoreapp3.1\Google Form.dll
+C:\Users\visha\source\repos\Google Form\Google Form\bin\Debug\netcoreapp3.1\Google Form.pdb
+C:\Users\visha\source\repos\Google Form\Google Form\bin\Debug\netcoreapp3.1\Microsoft.OpenApi.dll
+C:\Users\visha\source\repos\Google Form\Google Form\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.Swagger.dll
+C:\Users\visha\source\repos\Google Form\Google Form\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerGen.dll
+C:\Users\visha\source\repos\Google Form\Google Form\bin\Debug\netcoreapp3.1\Swashbuckle.AspNetCore.SwaggerUI.dll
+C:\Users\visha\source\repos\Google Form\Google Form\obj\Debug\netcoreapp3.1\Google Form.csproj.AssemblyReference.cache
+C:\Users\visha\source\repos\Google Form\Google Form\obj\Debug\netcoreapp3.1\Google Form.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\visha\source\repos\Google Form\Google Form\obj\Debug\netcoreapp3.1\Google Form.AssemblyInfoInputs.cache
+C:\Users\visha\source\repos\Google Form\Google Form\obj\Debug\netcoreapp3.1\Google Form.AssemblyInfo.cs
+C:\Users\visha\source\repos\Google Form\Google Form\obj\Debug\netcoreapp3.1\Google Form.csproj.CoreCompileInputs.cache
+C:\Users\visha\source\repos\Google Form\Google Form\obj\Debug\netcoreapp3.1\Google Form.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\visha\source\repos\Google Form\Google Form\obj\Debug\netcoreapp3.1\Google Form.MvcApplicationPartsAssemblyInfo.cache
+C:\Users\visha\source\repos\Google Form\Google Form\obj\Debug\netcoreapp3.1\staticwebassets\Google Form.StaticWebAssets.Manifest.cache
+C:\Users\visha\source\repos\Google Form\Google Form\obj\Debug\netcoreapp3.1\staticwebassets\Google Form.StaticWebAssets.xml
+C:\Users\visha\source\repos\Google Form\Google Form\obj\Debug\netcoreapp3.1\scopedcss\bundle\Google Form.styles.css
+C:\Users\visha\source\repos\Google Form\Google Form\obj\Debug\netcoreapp3.1\Google Form.RazorTargetAssemblyInfo.cache
+C:\Users\visha\source\repos\Google Form\Google Form\obj\Debug\netcoreapp3.1\Google Form.csproj.CopyComplete
+C:\Users\visha\source\repos\Google Form\Google Form\obj\Debug\netcoreapp3.1\Google Form.dll
+C:\Users\visha\source\repos\Google Form\Google Form\obj\Debug\netcoreapp3.1\Google Form.pdb
+C:\Users\visha\source\repos\Google Form\Google Form\obj\Debug\netcoreapp3.1\Google Form.genruntimeconfig.cache

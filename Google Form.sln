@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 16
+VisualStudioVersion = 16.0.31911.196
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Google Form", "Google Form\Google Form.csproj", "{03FE8398-5A93-4740-B634-FCE6A14938DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{03FE8398-5A93-4740-B634-FCE6A14938DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{03FE8398-5A93-4740-B634-FCE6A14938DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{03FE8398-5A93-4740-B634-FCE6A14938DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{03FE8398-5A93-4740-B634-FCE6A14938DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {AA51A13F-F46C-4CE0-B6DD-FF91F9D8D4D1}
+	EndGlobalSection
+EndGlobal
