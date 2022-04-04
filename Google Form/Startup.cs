@@ -53,6 +53,20 @@ namespace Google_Form
 
             app.UseAuthorization();
 
+            #region Cors Implemetation
+
+            app.UseCors();
+            app.UseCors(builder =>
+            {
+                builder
+                .AllowAnyOrigin()
+                .AllowAnyMethod()
+                .AllowAnyHeader();
+            });
+
+            #endregion
+
+
             #region
             app.UseSwagger();
             app.UseSwaggerUI(c =>

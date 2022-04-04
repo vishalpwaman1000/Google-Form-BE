@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\visha\\source\\repos\\Google Form\\Google Form\\Google Form.csproj": {}
+    "C:\\Users\\visha\\source\\repos\\GoogleForm\\Google Form BE\\Google Form\\Google Form.csproj": {}
   },
   "projects": {
-    "C:\\Users\\visha\\source\\repos\\Google Form\\Google Form\\Google Form.csproj": {
+    "C:\\Users\\visha\\source\\repos\\GoogleForm\\Google Form BE\\Google Form\\Google Form.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\visha\\source\\repos\\Google Form\\Google Form\\Google Form.csproj",
+        "projectUniqueName": "C:\\Users\\visha\\source\\repos\\GoogleForm\\Google Form BE\\Google Form\\Google Form.csproj",
         "projectName": "Google Form",
-        "projectPath": "C:\\Users\\visha\\source\\repos\\Google Form\\Google Form\\Google Form.csproj",
+        "projectPath": "C:\\Users\\visha\\source\\repos\\GoogleForm\\Google Form BE\\Google Form\\Google Form.csproj",
         "packagesPath": "C:\\Users\\visha\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\visha\\source\\repos\\Google Form\\Google Form\\obj\\",
+        "outputPath": "C:\\Users\\visha\\source\\repos\\GoogleForm\\Google Form BE\\Google Form\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\visha\\AppData\\Roaming\\NuGet\\NuGet.Config",
@@ -40,9 +40,17 @@
         "netcoreapp3.1": {
           "targetAlias": "netcoreapp3.1",
           "dependencies": {
+            "Microsoft.AspNetCore.Cors": {
+              "target": "Package",
+              "version": "[2.2.0, )"
+            },
             "MySql.Data": {
               "target": "Package",
               "version": "[8.0.28, )"
+            },
+            "RestSharp": {
+              "target": "Package",
+              "version": "[107.3.0, )"
             },
             "Swashbuckle.AspNetCore": {
               "target": "Package",
